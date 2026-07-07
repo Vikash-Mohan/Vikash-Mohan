@@ -19,7 +19,7 @@ I focus on identifying, analyzing, and mitigating security risks across networks
 _(link pinned repos here)_
 
 ### Connect
-- LinkedIn: _add your link_
+- LinkedIn: [www.linkedin.com/in/vikash-mohan-a10572183](https://www.linkedin.com/in/vikash-mohan-a10572183)
 - Email: _add your contact_
 
 ---
