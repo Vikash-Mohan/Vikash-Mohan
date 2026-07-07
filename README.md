@@ -13,14 +13,10 @@ I focus on identifying, analyzing, and mitigating security risks across networks
 - Security Automation & Tooling
 
 ### Tools & Technologies
-`Python` `Bash` `Nmap` `Metasploit` `Burp Suite` `Wireshark` `Splunk` `AWS Security Hub` `Terraform` `MITRE ATT&CK`
-
-### Featured Projects
-_(link pinned repos here)_
+`Python` `Bash` `Nmap` `Metasploit` `Burp Suite` `Wireshark` `Splunk` `AWS Security Hub` `Terraform` `MITRE ATT&CK` `Tenable` `Crowdstrike`
 
 ### Connect
 - LinkedIn: [www.linkedin.com/in/vikash-mohan-a10572183](https://www.linkedin.com/in/vikash-mohan-a10572183)
-- Email: _add your contact_
 
 ---
 Always learning, always defending.
